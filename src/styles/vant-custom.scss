@@ -1,0 +1,17 @@
+.van-cell {
+  border: 1px solid #565656;
+  border-radius: 4px;
+  height: 38px;
+  line-height: 20px !important;
+
+  .van-field__control {
+    color: #383838;
+    font-size: 18px;
+    font-family: 'DINOT-Medium';
+  }
+}
+
+.mian-card .right-btn .van-loading .van-loading__text {
+  color: #fff;
+  font-size: 12px;
+}
