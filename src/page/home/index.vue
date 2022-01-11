@@ -32,13 +32,7 @@
                         <div class="divLine"></div>
                         <span>ADVERTISMENT</span>
                     </div>
-                    <div class="iframe-advertise">
-                      <ins class="adsbygoogle"
-                        style="display:inline-block;width:320px;height:90px"
-                        data-ad-client="ca-pub-1604387752354120"
-                        data-ad-slot="9955217857">
-                      </ins>
-                    </div>
+                    <div class="iframe-advertise"></div>
                 </div>
             </van-tab>
         </van-tabs>
